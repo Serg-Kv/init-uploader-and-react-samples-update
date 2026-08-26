@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi_onlyoffice_com=self.webpackChunkapi_onlyoffice_com||[]).push([[81903],{101912:a=>{a.exports=JSON.parse('{"blogBasePath":"/init-uploader-and-react-samples-update/changelog","blogTitle":"Changelog","authorsListPath":"/init-uploader-and-react-samples-update/changelog/authors"}')}}]);
